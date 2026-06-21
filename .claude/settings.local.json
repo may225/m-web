@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem D:\\\\MOMIN_GAMES\\\\_Website *)",
+      "WebFetch(domain:theonegamestudio.com)",
+      "WebFetch(domain:play.google.com)"
+    ]
+  }
+}
