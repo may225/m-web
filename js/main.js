@@ -22,6 +22,16 @@ const GAMES = [
     appstore: null,
     googleplay: "https://play.google.com/store/apps/details?id=com.drawpuzzle.draw3d.stopanimals",
   },
+  {
+    id: 2,
+    title: "Jeweland",
+    genre: "hybrid-puzzle",
+    icon: "assets/images/icon_jeweland.png",
+    emoji: "🐾",
+    gradient: "linear-gradient(145deg, #4ECDC4, #44A08D)",
+    appstore: null,
+    googleplay: "https://play.google.com/store/apps/details?id=com.sugarscone.jeweland",
+  },
 ];
 
 // --- SVG icons ---

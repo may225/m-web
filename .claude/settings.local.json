@@ -3,7 +3,11 @@
     "allow": [
       "Bash(Get-ChildItem D:\\\\MOMIN_GAMES\\\\_Website *)",
       "WebFetch(domain:theonegamestudio.com)",
-      "WebFetch(domain:play.google.com)"
+      "WebFetch(domain:play.google.com)",
+      "WebFetch(domain:momingames.epizy.com)",
+      "Bash(Get-Item \"C:\\\\Users\\\\Kuzze\\\\.claude\\\\projects\\\\D--MOMIN-GAMES--Website\\\\d674c372-f3d4-426a-b84a-1ce2d148e7fb.jsonl\")",
+      "Bash(Select-Object LastWriteTime, Length)",
+      "Bash(Get-Item \"C:\\\\Users\\\\Kuzze\\\\.claude\\\\projects\\\\D--MOMIN-GAMES--Website\\\\4ed4c269-c626-4688-9bc7-a89774de659e.jsonl\")"
     ]
   }
 }

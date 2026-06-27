@@ -52,8 +52,8 @@ button { font-family: 'Nunito', sans-serif; cursor: pointer; }
   color: var(--text); letter-spacing: 0.01em;
 }
 .logo-img { width: 80px; height: 80px; object-fit: contain; display: block; }
-.logo-words { display: flex; flex-direction: column; line-height: 1.2; }
-.logo-slogan { font-family: 'Nunito', sans-serif; font-size: 1.3rem; font-weight: 700; color: var(--muted); letter-spacing: 0.04em; }
+.logo-words { width: 230px; display: flex; flex-direction: column; line-height: 1.2; }
+.logo-slogan { font-family: 'Nunito', sans-serif; font-size: 1.25rem; font-weight: 700; color: rgb(0,197,255); letter-spacing: 0.04em; }
 .logo--white { color: rgba(255,255,255,0.9); }
 
 .main-nav { display: flex; align-items: center; gap: 36px; }
